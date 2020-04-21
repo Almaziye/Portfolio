@@ -45,6 +45,11 @@ a:active {
   border-radius: 150px;
 }
 
+#img-about {
+  height: 300px;
+  width: 300px;
+}
+
 .ful-name,
 .name,
 #hd {
@@ -60,6 +65,10 @@ td,
 th {
   border: 1px;
   text-align: left;
-  padding: 5px;
+  padding: 25px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.top {
+  height: 300px;
+  width: 300px;
 }

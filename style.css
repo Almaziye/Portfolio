@@ -50,3 +50,16 @@ a:active {
 #hd {
   height: 420px;
 }
+table {
+  width: 50%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-collapse: collapse;
+  margin-left: 20%;
+}
+td,
+th {
+  border: 1px;
+  text-align: left;
+  padding: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

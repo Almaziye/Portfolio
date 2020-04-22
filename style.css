@@ -46,10 +46,18 @@ a:active {
 }
 #img-about {
   padding-top: 16px;
+  border-radius: 20px;
   height: 250px;
   width: 250px;
 }
-
+a:hover {
+  border-bottom: red;
+}
+a:link {
+  color: red;
+  text-decoration: none;
+  border-bottom: 1px solid red;
+}
 .ful-name,
 .name,
 #hd {
